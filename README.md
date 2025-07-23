@@ -1,6 +1,6 @@
 # Luxury Car Landing
 
-![Luxury Car](./assets/img/screenshot.png)
+![Music Artist](./assets/img/screenshot.jpg)
 
 - [Design](https://www.figma.com/design/1kUHvkyQHC5puqsIxhO97q/Music-Artist-Landing-Page---Website-Template--Community-?node-id=59-1121&t=ursXw2AzVsmTAjzB-1)
 - [Demo](https://crashtheroutines.github.io/luxurycar_landing)
