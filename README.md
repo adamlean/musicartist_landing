@@ -5,14 +5,11 @@
 - [Design](https://www.figma.com/design/1kUHvkyQHC5puqsIxhO97q/Music-Artist-Landing-Page---Website-Template--Community-?node-id=59-1121&t=ursXw2AzVsmTAjzB-1)
 - [Demo](https://crashtheroutines.github.io/luxurycar_landing)
 
-# Luxury Car Landing — Multi-format Template
+# Music Artist — Landing Template
 
-This repository contains several implementations of one landing page **Luxury Car Landing**, including:
+This repository contains several implementations of one landing page **Music Artist**, including:
 
 - Pure HTML/SCSS/JS layout
-- WordPress theme
-- Django version
-- React version _(in development)_
 
 ---
 
@@ -21,9 +18,6 @@ This repository contains several implementations of one landing page **Luxury Ca
 ```bash
 luxurycar_landing/
 ├── assets/           # Common styles, scripts, images
-├── ru/               # Russian HTML version
-├── wp-theme/         # WordPress theme
-├── django-version/   # Django application
 └── README.md         # This file
 ```
 
@@ -34,34 +28,6 @@ luxurycar_landing/
 ### HTML
 
 Open `html-version/index.html` in a browser. All styles and scripts are included from `../assets`.
-
-### WordPress
-
-1. Go to `wp-theme/`
-2. Copy the folder to `wp-content/themes/` of your WordPress site
-3. Activate the theme via the admin panel
-
-### Django
-
-1. Go to `django-version/`
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
-```
-
-## Features
-
-- Unified layout for different stacks
-- Convenient structure for support
-- Quick switching between formats
-
-## In development
-
-- React version
-- Generating templates for CMS
-- Possibility of API connection
 
 ## Author
 
