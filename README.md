@@ -1,4 +1,4 @@
-# Luxury Car Landing
+# Music Artist Landing
 
 ![Music Artist](./assets/img/screenshot.jpg)
 
