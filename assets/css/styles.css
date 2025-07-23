@@ -290,3 +290,22 @@ nav ul li a.active::before {
   color: #fff;
   cursor: pointer;
 }
+
+.about {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  background-color: black;
+  padding: 20px 40px;
+}
+
+.about h3 {
+  font-size: 48px;
+  margin-bottom: 1em;
+}
+
+.about p {
+  font-size: 35px;
+  text-indent: 2em;
+  margin-bottom: 1em;
+}
