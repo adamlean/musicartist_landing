@@ -16,7 +16,7 @@ This repository contains several implementations of one landing page **Music Art
 ## Project structure
 
 ```bash
-luxurycar_landing/
+musicartist_landing/
 ├── assets/           # Common styles, scripts, images
 └── README.md         # This file
 ```
