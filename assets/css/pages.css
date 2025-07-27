@@ -76,6 +76,8 @@ nav ul li a.active::before {
   font-size: 14px;
 }
 
+/* Merch */
+
 .merch-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -85,20 +87,20 @@ nav ul li a.active::before {
   align-items: center;
 }
 
-.item img {
+.merch-grid .item img {
   width: 160px;
   height: auto;
   object-fit: contain;
   margin-bottom: 12px;
 }
 
-.label {
+.merch-grid .label {
   font-weight: bold;
   font-size: 14px;
   opacity: 0.9;
 }
 
-.logo-center {
+.merch-grid .logo-center {
   font-size: 40px;
   font-weight: 900;
   text-align: center;
@@ -118,14 +120,14 @@ nav ul li a.active::before {
   align-items: center;
 }
 
-.item img {
+.music-grid .item img {
   width: 250px;
   height: auto;
   object-fit: contain;
   margin-bottom: 12px;
 }
 
-.label {
+.music-grid .label {
   font-weight: bold;
   font-size: 14px;
   opacity: 0.9;
