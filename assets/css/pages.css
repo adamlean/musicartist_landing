@@ -106,3 +106,47 @@ nav ul li a.active::before {
   letter-spacing: 1px;
   text-shadow: 2px 2px 0 black;
 }
+
+/* Music */
+
+.music-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  padding: 80px 60px;
+  text-align: center;
+  align-items: center;
+}
+
+.item img {
+  width: 250px;
+  height: auto;
+  object-fit: contain;
+  margin-bottom: 12px;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+/* About */
+
+.about {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 20px 40px;
+}
+
+.about h3 {
+  font-size: 35px;
+  margin-bottom: 1em;
+}
+
+.about p {
+  font-size: 30px;
+  text-indent: 2em;
+  margin-bottom: 1em;
+}
