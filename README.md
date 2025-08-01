@@ -5,7 +5,7 @@
 - [Design](https://www.figma.com/design/1kUHvkyQHC5puqsIxhO97q/Music-Artist-Landing-Page---Website-Template--Community-?node-id=59-1121&t=ursXw2AzVsmTAjzB-1)
 - [Demo](https://crashtheroutines.github.io/luxurycar_landing)
 
-# Music Artist — Landing Template
+# Music Artist — Multi-Page Template
 
 This repository contains several implementations of one landing page **Music Artist**, including:
 
