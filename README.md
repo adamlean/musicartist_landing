@@ -1,4 +1,4 @@
-# Music Artist Landing
+# Music Artist Website
 
 ![Music Artist](./assets/img/screenshot.jpg)
 
